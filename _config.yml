@@ -9,8 +9,8 @@ permalink:        none
 title:            phocks
 tagline:          'guarding the henhouse'
 description:      'Some kind of blog written by Joshua Byrd.'
-url:              http://phocks.github.io/
-baseurl:          '/'
+url:              http://tmzanco.github.io/fifteenwhiskey
+baseurl:          '/fifteenwhiskey'
 paginate:         5
 timezone:         Australia/Brisbane
 
@@ -19,7 +19,7 @@ author:
   url:            https://twitter.com/phocks
 
 # Custom vars
-version:          0.0.5
+version:          0.0.1
 
 github:
   repo:           https://github.com/phocks/phocks.github.io
