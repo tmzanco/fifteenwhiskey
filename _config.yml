@@ -9,8 +9,8 @@ permalink:        none
 title:            Fifteen Whiskey
 tagline:          'the first of some.'
 description:      'Fifteen Whiskey.'
-url:              http://tmzanco.github.io/fifteenwhiskey
-baseurl:          '/'
+url:              http://tmzanco.github.io/
+baseurl:          '/fifteenwhiskey'
 paginate:         5
 timezone:         America/New_York
 
