@@ -6,20 +6,20 @@ highlighter:      pygments
 permalink:        none
 
 # Setup
-title:            phocks
-tagline:          'guarding the henhouse'
-description:      'Some kind of blog written by Joshua Byrd.'
+title:            Fifteen Whiskey
+tagline:          'the first of some.'
+description:      'Fifteen Whiskey.'
 url:              http://tmzanco.github.io/fifteenwhiskey
-baseurl:          '/fifteenwhiskey/'
+baseurl:          '/'
 paginate:         5
-timezone:         Australia/Brisbane
+timezone:         America/New_York
 
 author:
-  name:           'Joshua Byrd'
-  url:            https://twitter.com/phocks
+  name:           'Fifteen Whiskey'
+  url:            http://www.fifteenwhiskey.com
 
 # Custom vars
 version:          0.0.1
 
 github:
-  repo:           https://github.com/phocks/phocks.github.io
+  repo:           https://github.com/tmzanco/fifteenwhiskey
